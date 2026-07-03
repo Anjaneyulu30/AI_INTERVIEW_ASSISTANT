@@ -1,0 +1,17 @@
+nenv21/
+
+__pycache__/
+*.pyc
+
+.env
+
+*.db
+
+uploads/
+
+reports/
+
+.vscode/
+
+.DS_Store
+Thumbs.db
